@@ -55,7 +55,7 @@ if __name__ == "__main__":
 
     print("=== Encuesta de Ideas de Proyecto ===")
     # Recolectar respuestas de al menos 10 estudiantes
-    for i in range(2):  
+    for i in range(10):  
         nombre = input("\nIngresa tu nombre: ")
         respuestas = []
         # Recorre las preguntas 
